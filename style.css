@@ -1,0 +1,71 @@
+body {
+  background-color:rgb(254, 247, 236);
+  font-family: "Jersey 10 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+img { border-radius: 50%;}
+h1 {
+  color: hotpink;
+  }
+p {
+  color:rgb(88, 81, 81)
+}
+
+h3 {
+color:rgb(88, 81, 81);
+text-align:center
+}
+
+/* a {
+  color: hotpink;
+  text-decoration:rgb(88, 81, 81);
+  font-weight: bold;
+} */
+
+button {
+  color: rgb(254, 247, 236);
+  font-weight: bold;
+  border: 10px solid hotpink;
+  background-color: hotpink;
+  border-radius: 3px;
+}
+
+a:hover {
+  color: rgb(88, 81, 81);
+  border: 5px
+}
+
+.info {
+  display: block;
+  text-align: center;
+  border: 10px solid rgb(254, 247, 236);
+  height: 400px;
+  width: 500px;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.socials {
+  display: block;
+  text-align: center;
+  border: 10px solid rgb(254, 247, 236);
+  height: 110px;
+  width: 500px;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+ul {
+  list-style-type: none;
+  color:rgb(88, 81, 81);
+  text-align:center;
+  padding: 0; /* Removes padding */
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
