@@ -17,19 +17,22 @@ color:rgb(88, 81, 81);
 text-align:center
 }
 
-/* a {
-  color: hotpink;
-  text-decoration:rgb(88, 81, 81);
-  font-weight: bold;
-} */
-
-button {
+a {
   color: rgb(254, 247, 236);
   font-weight: bold;
   border: 10px solid hotpink;
   background-color: hotpink;
   border-radius: 3px;
+  text-decoration: none;
 }
+
+/* button {
+  color: rgb(254, 247, 236);
+  font-weight: bold;
+  border: 10px solid hotpink;
+  background-color: hotpink;
+  border-radius: 3px;
+} */
 
 a:hover {
   color: rgb(88, 81, 81);
